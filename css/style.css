@@ -33,7 +33,7 @@
 * 8. felső padding: 20px
 */
 .mt {
-  text-align: left;
+  position: left;
   margin-top: -20px;
   padding-top: 20px;
 }
